@@ -1,0 +1,12 @@
+- vault-overview-1
+- getvaults
+- listvaults
+- getassetsnotinvault
+- createvault
+- searchvaults
+- getvault
+- getvaultvalidators
+- addasset
+- getaddressofasset
+- hidevault
+- unhidevault

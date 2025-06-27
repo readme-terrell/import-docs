@@ -1,0 +1,8 @@
+- hot-wallet-overview
+- getcurrentbatch
+- createbatch
+- acceptbatch
+- rejectbatch
+- exporthotpairingmessage
+- importcoldpairingmessage
+- listmasterkeys

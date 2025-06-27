@@ -1,0 +1,5 @@
+- cold-wallet-overview
+- coldwalletconfig
+- generatecoldpairingmessages
+- transactionbatchparse
+- transactionbatchsign

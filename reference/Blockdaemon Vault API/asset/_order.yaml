@@ -1,0 +1,10 @@
+- assets
+- getallassetssummary
+- addaddress
+- adderc20asset
+- getexchangerates
+- retryaddaddress
+- setexchangerate
+- getasseticon
+- getassetdetails
+- getsummaryofassetsvalidators

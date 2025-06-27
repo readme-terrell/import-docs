@@ -1,0 +1,9 @@
+- transfer-funds
+- receive-funds
+- ️set-boundaries-for-accepted-exchange-rates
+- stake-assets
+- unstake-assets
+- transaction-history
+- add-erc-20-assets
+- export-audit-logs
+- emergency-freeze
